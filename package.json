@@ -1,0 +1,21 @@
+{
+    "name": "server-nodejs-restapi-mongodb",
+    "version": "1.0.0",
+    "description": "Server-NodeJs-RestApis-MongoDB",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "NodeJs-RestAPIs-MongoDB-Server"
+    ],
+    "author": "Malay",
+    "license": "ISC",
+    "dependencies": {
+      "body-parser": "^1.18.2",
+      "cors": "^2.8.4",
+      "express": "^4.16.3",
+      "nodemailer": "^6.1.0",
+      "npm": "^6.12.0"
+    }
+  }
