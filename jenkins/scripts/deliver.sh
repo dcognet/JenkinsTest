@@ -1,1 +1,1 @@
-echo "d"
+npm start
