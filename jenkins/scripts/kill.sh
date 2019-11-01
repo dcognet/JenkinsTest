@@ -1,1 +1,1 @@
-echo "kill"
+echo "killc"
